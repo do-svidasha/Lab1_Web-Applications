@@ -1,0 +1,4 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+martenm+     9  0.0  0.0  10052  5056 pts/0    Ss   09:20   0:00 -bash
+martenm+   102  0.0  0.0   8616  3152 pts/0    S+   12:07   0:00 /bin/bash ./Lab1Script.sh
+martenm+   104  0.0  0.0  10616  3228 pts/0    R+   12:07   0:00 ps ux -u martenmellow
